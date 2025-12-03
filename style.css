@@ -1,0 +1,4 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#eef1f7;margin:0;padding:0}
+.container{width:90%;max-width:1100px;margin:auto}
+.card{border-radius:8px}
+pre{background:#0b1220;color:#8ef58e;padding:12px;overflow:auto;white-space:pre-wrap}
